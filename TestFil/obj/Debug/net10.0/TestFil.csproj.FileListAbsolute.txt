@@ -12,3 +12,4 @@
 /Users/malteherrstrom/dotnet/tentaPlugg/TestFil/obj/Debug/net10.0/TestFil.pdb
 /Users/malteherrstrom/dotnet/tentaPlugg/TestFil/obj/Debug/net10.0/TestFil.genruntimeconfig.cache
 /Users/malteherrstrom/dotnet/tentaPlugg/TestFil/obj/Debug/net10.0/ref/TestFil.dll
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil/obj/Debug/net10.0/TestFil.sourcelink.json
