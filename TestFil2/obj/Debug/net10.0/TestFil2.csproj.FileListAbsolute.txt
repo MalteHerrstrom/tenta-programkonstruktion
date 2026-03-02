@@ -1,0 +1,15 @@
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/bin/Debug/net10.0/TestFil2
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/bin/Debug/net10.0/TestFil2.deps.json
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/bin/Debug/net10.0/TestFil2.runtimeconfig.json
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/bin/Debug/net10.0/TestFil2.dll
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/bin/Debug/net10.0/TestFil2.pdb
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.AssemblyInfoInputs.cache
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.AssemblyInfo.cs
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.csproj.CoreCompileInputs.cache
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.sourcelink.json
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.dll
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/refint/TestFil2.dll
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.pdb
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/TestFil2.genruntimeconfig.cache
+/Users/malteherrstrom/dotnet/tentaPlugg/TestFil2/obj/Debug/net10.0/ref/TestFil2.dll
